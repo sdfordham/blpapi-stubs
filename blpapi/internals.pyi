@@ -152,7 +152,7 @@ def CorrelationId_t_equals(cid1, cid2): ...
 
 class CorrelationId:
     thisown: Any
-    value: Any
+    # value: Any (L164 woops)
     UNSET_TYPE: Any
     INT_TYPE: Any
     OBJECT_TYPE: Any
