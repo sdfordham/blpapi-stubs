@@ -2,7 +2,7 @@ from setuptools import setup
 
 
 setup(
-    name="blpapi-python-stubs",
+    name="blpapi-stubs",
     version="1.0",
     description="Mypy stubs for blpapi-python",
     author="Stiofán Fordham",
