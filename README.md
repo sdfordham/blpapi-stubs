@@ -1,10 +1,10 @@
 # blpapi-stubs
 
-Mypy stubs for blpapi.
+Mypy stubs for [blpapi](https://www.bloomberg.com/professional/support/api-library/).
 
 ## Note
 
-The latest version 3.18.0 of blpapi (2022-03-03) is typed; you should only install these stubs if using an older version: 3.17.1 or earlier.
+The latest version `3.18.0` of blpapi (2022-03-03) is typed; you really only need these stubs if using an older version: `3.17.1` or earlier.
 
 ## Installation
 
