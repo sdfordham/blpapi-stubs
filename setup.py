@@ -6,7 +6,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setup(
     name="blpapi-stubs",
-    version="0.3",
+    version="0.0.2",
     author="Stiofán Fordham",
     author_email="stiofan.fordham@gmail.com",
     description="Mypy stubs for blpapi",
@@ -20,6 +20,8 @@ setup(
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
+        "Development Status :: 3 - Alpha",
+        "Programming Language :: Python :: 3",
     ],
     install_requires=["mypy>=0.790", "typing-extensions>=3.7.4"],
     packages=["blpapi"],
